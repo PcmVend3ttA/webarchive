@@ -1,5 +1,6 @@
 # Usage
-You need to run installer first to install all the required modules
+Tutorial
+# Run installer
 python installer.py
 ![installer](https://github.com/user-attachments/assets/ff35fc54-fb41-4248-bad6-25b4905833df)
 # Run script
